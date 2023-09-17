@@ -1,16 +1,22 @@
-### Hi there 👋
+![ixramo's Stats](https://github-readme-stats.vercel.app/api?username=ixramo&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)  ![ixramo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ixramo&theme=vue-dark&show_icons=true&hide_border=false&layout=compact) 
 
-<!--
-**ixramo/ixramo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> Hi 👋</h1>
 
-Here are some ideas to get you started:
+<img src= "https://media.discordapp.net/attachments/1082683226193149996/1153079635630903316/Sans_titre.png">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2>About me ;)</h2>
+
+<ul>
+  <li> <b>Name</b> : Ramo  </li>
+  <li> <b>Age</b> : ? </li>
+  <li> <b>experience</b> : idk </li>
+</ul>
+<img>
+
+<h2>Contact</h2>
+
+<ul>
+  <li>Instagram: <a href = "https://instagram/ixramo">@ixramo</a></li>
+  <li>Mail : ixramo@proton.me</li>
+</ul>
